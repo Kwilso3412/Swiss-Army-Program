@@ -10,6 +10,7 @@ Once that is downloaded and completed you will need to do the following operatio
 select project.sln -> main.asm
 
 **NOTE**
+You will need the Irvine Library to run the game.
 
 [Kip Irvine's](http://www.asmirvine.com/) 
 
